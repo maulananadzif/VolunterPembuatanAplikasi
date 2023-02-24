@@ -5,4 +5,3 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 * Maulana Nadzif Adnan, [Github](https://github.com/maulananadzif).
-* Alan Ganteng, [Github](https://github.com/alan2103).
